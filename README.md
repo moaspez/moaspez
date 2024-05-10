@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @moaspez.
+- 👀 I’m interested in Development of C# and Lua Apps.
+- 🌱 I’m currently learning Lua & Python.
+- 💞️ I’m looking to collaborate on Telegram.
+- 📫 How to reach me @moasp889 on Telegram or Discord.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have 5 cats :)
